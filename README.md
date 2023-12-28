@@ -7,7 +7,7 @@
 <img align="right" alt="Web Developer Image" src="./web-developer.svg"  width="400px"/>
 
 ## I'm Leandro Duarte
-Tech stack learning: Node | Typescript | Java | Database | Javascript | HTML | CSS | ReactJS 
+Tech stack learning: Node.js | Typescript | Database | Javascript | HTML | CSS | ReactJS 
 
  ⚙️ Changing careers
 
