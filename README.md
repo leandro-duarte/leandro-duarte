@@ -6,12 +6,12 @@
 
 <img align="right" alt="Web Developer Image" src="./web-developer.svg"  width="400px"/>
 
-## I'm Leandro Duarte
-Tech stack learning: Node.js | Typescript | Database | Javascript | HTML | CSS | ReactJS 
+## Leandro Duarte here!
+I'm learning Web development 
 
  ⚙️ Changing careers
 
- 👩‍💻 Focused on web development studies at @[Udemy](https://www.udemy.com/)
+ 👩‍💻 Focused on Back-end Web development studies
 
  🎓 Analysis and systems development Student
 
