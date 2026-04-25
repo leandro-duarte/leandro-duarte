@@ -9,8 +9,6 @@
 ## Leandro Duarte here!
 I'm learning Web development 
 
- ⚙️ Changing careers
-
  👩‍💻 Focused on Back-end Web development studies
 
  🎓 Analysis and systems development Student
